@@ -1,2 +1,2 @@
 # StudyHub
- A peer-study chatting and collaboration web application
+Find your study partners!
